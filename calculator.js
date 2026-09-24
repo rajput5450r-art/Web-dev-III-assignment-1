@@ -1,7 +1,7 @@
-const args = process.argv;
-const operation = args[2];
-const num1 = Number(args[3]);
-const num2 = Number(args[4]);
+ const args = process.argv;
+ const operation = args[2];
+ const num1 = Number(args[3]);
+ const num2 = Number(args[4]);
 
 let result;
 
